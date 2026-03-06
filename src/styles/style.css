@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  font-family: Arial;
+  background: linear-gradient(120deg,#4facfe,#00f2fe);
+}
+
+.container{
+  margin-top:100px;
+}
+
+h1{
+  color:black;
+  font-weight:bold;
+}
+
+p{
+  color:black;
+  font-size:18px;
+}
+
+.btn{
+  padding:10px 20px;
+  border-radius:20px;
+}
+.card{
+  border-radius:15px;
+  border:none;
+  box-shadow:0 5px 20px rgba(0,0,0,0.2);
+}
+
+.btn{
+  border-radius:25px;
+  padding:10px 20px;
+}
+
+.container{
+  margin-top:50px;
+}
